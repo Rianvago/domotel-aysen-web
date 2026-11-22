@@ -1,0 +1,4 @@
+.netlify/
+.playwright-mcp/
+Thumbs.db
+.DS_Store
